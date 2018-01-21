@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookApp</string>
+
+    <string name="edit_text">Find your loyal friend</string>
+
+    <string name="welcome_text">Welcome! Search for magic and find the truth!</string>
+
+    <string name="describe">In the heart of Italy, Harvard professor of symbology Robert Langdon . . . Dante’s Inferno.</string>
+
+</resources>
